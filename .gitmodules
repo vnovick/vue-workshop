@@ -1,0 +1,6 @@
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/vnovick/vue-basic-todo-app
+[submodule "vue-basic-routing-blog-excercise"]
+	path = vue-basic-routing-blog-excercise
+	url = git@github.com:vnovick/vue-basic-routing-blog-excercise.git
