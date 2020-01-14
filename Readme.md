@@ -222,6 +222,7 @@ switch to Vue CLI
 
 # Day 2
 - [Vue router slides](https://slides.com/vladimirnovick/vue-workshop-day-router?token=ec7H5809) Password `Playtech`
+- [VueX slides](https://slides.com/vladimirnovick/vue-workshop-day2-vuex?token=WharD9za) Password `Playtech`
 
 ### Excercise 5
 
@@ -237,3 +238,5 @@ switch to Vue CLI
 
 
 
+### Excercise 6
+- Convert todo app to VueX
