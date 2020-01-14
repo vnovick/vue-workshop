@@ -240,3 +240,13 @@ switch to Vue CLI
 
 ### Excercise 6
 - Convert todo app to VueX
+
+
+### Excercise 7
+- Create VueX store with user module and posts module
+- Load posts into a store on initial app load
+- Change posts access to be getters from the store
+- Integrate login flow with VueX user module
+- Add login button to redirect to the Login page or present user name when the user is logged in
+- When filling the login form, log in to dummy API, store user in store and redirect to UserProfile page.
+- create add comments functionality to an app (if not logged in, it should be a guest, if logged in, should write user name near the comment)
