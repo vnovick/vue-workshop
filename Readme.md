@@ -250,3 +250,12 @@ switch to Vue CLI
 - Add login button to redirect to the Login page or present user name when the user is logged in
 - When filling the login form, log in to dummy API, store user in store and redirect to UserProfile page.
 - create add comments functionality to an app (if not logged in, it should be a guest, if logged in, should write user name near the comment)
+
+
+# Day 3
+
+[Slides](https://slides.com/vladimirnovick/vue-workshop-day-3?token=rhpPjMNA) Password Playtech
+
+
+Final solutions in the repo.
+I've created solutions folder - please submit your solutions there as PRs
